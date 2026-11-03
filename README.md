@@ -29,17 +29,6 @@ This project is a full-stack web application designed to combat food waste by co
 4. The Recipient meets the Donor in person and presents the code.  
 5. The Donor enters the code in their dashboard to verify and mark the transaction as completed.  
 
----
-
-## 📸 Screenshots
-
-**Donor & Recipient Dashboard**  
-![Dashboard Screenshot](https://github.com/Krishna1838/ShareBite/blob/main/DASHBOARD.png?raw=true)
-
-**Verify & Handover Modal**  
-![Handover Screenshot](https://github.com/Krishna1838/ShareBite/blob/main/VERIFY.png?raw=true)
-
----
 
 ## 🗂 Project Structure
 
@@ -59,9 +48,9 @@ This project is a full-stack web application designed to combat food waste by co
 
 ## 👨‍💻 Author
 
-- **Student Name:** Krishna Vardhan Baratam  
+- **Student Name:** Srikar Jami 
 - **College Name:** VIT-AP  
-- **Email:** krishnavardhanbaratam248@gmail.com
+- **Email:** srikarjami77@gmail.com
 
 ---
 
